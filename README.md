@@ -8,7 +8,7 @@
 
 <h1 align ="center"> Imersão Dev </h1>
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=GREEN&style=for-the-badge"/>
 </p>
 
 Este projeto foi criado durante a Imersão Dev, onde aprendemos a utilizar o JS, o CSS e o HTML, onde no final adquirimos um portfólio com alguns projetos para visualização.
