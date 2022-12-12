@@ -6,6 +6,8 @@
 | 🚀 URL         | https://yurialcant.github.io/certificard/
 | 🤿 Desafio |https://imersao.dev/aulas/
 
+![](https://user-images.githubusercontent.com/102321564/190710618-0a44c3f5-3f39-4af7-80df-8d2a36542994.png#vitrinedev)
+
 <h1 align ="center"> Imersão Dev </h1>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=GREEN&style=for-the-badge"/>
